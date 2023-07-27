@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SearchTests/Pods-SearchTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire-iOS13.0/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/PKHUD-iOS13.0/PKHUD.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage-iOS13.0/SDWebImage.framework

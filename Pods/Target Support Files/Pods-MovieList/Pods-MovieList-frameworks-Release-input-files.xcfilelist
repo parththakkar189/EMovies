@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MovieList/Pods-MovieList-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire-iOS13.7/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/PKHUD-iOS13.7/PKHUD.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage-iOS13.7/SDWebImage.framework
